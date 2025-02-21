@@ -1,5 +1,7 @@
 # IPL-Auction-History-Analysis-Tableau-Dashboard
 
+![tata-ipl-player-auction-2024](https://github.com/user-attachments/assets/d42cfce6-c548-4e6a-9d01-434060ecac4a)
+
 ## 📊 Overview
 This Tableau dashboard provides an in-depth analysis of IPL auctions from 2013 to 2024, focusing on players who went under the hammer (excluding retained players). The insights derived from this dataset help in understanding spending patterns, player demand, and team strategies over the years.
 
