@@ -1,4 +1,4 @@
-# IPL-Auction-History-Analysis-Tableau-Dashboard
+# IPL Auction History Analysis - Tableau Dashboard
 
 ![tata-ipl-player-auction-2024](https://github.com/user-attachments/assets/d42cfce6-c548-4e6a-9d01-434060ecac4a)
 
