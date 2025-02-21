@@ -10,7 +10,7 @@ This Tableau dashboard provides an in-depth analysis of IPL auctions from 2013 t
 
 ## 📷 Dashboard Preview
 
-[![IPL Auction](https://github.com/user-attachments/assets/9f71d392-d5ad-473a-aad7-94015ea7e294)](https://public.tableau.com/views/IPLAuctionHistoryAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![IPL Auction](https://github.com/user-attachments/assets/5f3739bf-8ad2-4d2a-960c-00be4113854c)](https://public.tableau.com/views/IPLAuctionHistoryAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 🔗 **Click the image to view the full interactive dashboard on Tableau Public.**
 
 ## 🔍 Report
