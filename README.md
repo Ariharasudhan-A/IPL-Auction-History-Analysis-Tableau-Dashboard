@@ -35,3 +35,12 @@ This Tableau dashboard provides an in-depth analysis of IPL auctions from 2013 t
 
 ## 📌 Conclusion
 This dashboard provides **actionable insights** into spending patterns, player demand, and team strategies over the years.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any queries or contributions, feel free to reach out to:
+- **Ariharasudhan A** - [Email](mailto:ariadaikalam1234@gmail.com)
